@@ -19,7 +19,7 @@ The feature descriptions are as follows:
 | Feature | Desciption |
 | --- | --- |
 | Name | The monster's name |
-| SizeType | Size and type (e.g. Large Fiend) |
+| SizeType | Size and type (e.g. Medium Beast) |
 | Align | Alignment |
 | AC | Armor class |
 | Init | Initiative with default result in parenthesis |
