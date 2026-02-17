@@ -35,5 +35,5 @@ The feature descriptions are as follows:
 
 
 # Model and Training
-This project uses the random forest regressor model implemented within the scikit-learn library.
+This project uses a random forest regressor model as implemented in the scikit-learn library.
 
