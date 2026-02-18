@@ -7,7 +7,7 @@ Moreover, a GM may want to create custom monsters to exactly fit their story. In
 Train a machine learning model that assesses the CR of creatures in D&D.
 
 # Interactive Demo
-A web-based interactive demo, that lets you estimate the CR of a custom monster, is available [here](https://colab.research.google.com/github/velzenor/DnDMonsterAssessor/blob/24c0b7d035bac84f0a6a3ac0a9e0fb9579ac161b/demo/Demo.ipynb).
+A web-based interactive demo, that lets you estimate the CR of a custom monster, is available [here](https://colab.research.google.com/github/velzenor/DnDMonsterAssessor/blob/6fc7feab765e938fd97f4dd4ecb851f32bdc629c/demo/Demo.ipynb).
 
 # Dataset
 Attribution: *This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.*
